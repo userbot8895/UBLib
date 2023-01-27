@@ -1,3 +1,5 @@
+# UBLib has been discontinued, see [this](https://t.me/pawneeupdates/127).
+
 # UBLib
 Common functions for working with userbots.
 
